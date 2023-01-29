@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="maddix-pasta.png"><SubTexture name="maddix down0000" x="0" y="1823" width="608" height="509" frameX="-97" frameY="-304" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix down0001" x="2102" y="0" width="552" height="535" frameX="-131" frameY="-277" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix idle0000" x="1173" y="1245" width="643" height="569" frameX="-155" frameY="-231" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix idle0001" x="0" y="1245" width="626" height="578" frameX="-158" frameY="-222" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix idle0002" x="1517" y="0" width="585" height="597" frameX="-183" frameY="-203" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix idle0003" x="0" y="642" width="559" height="603" frameX="-200" frameY="-196" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix left0000" x="959" y="0" width="558" height="606" frameX="-115" frameY="-193" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix left0001" x="1517" y="597" width="541" height="589" frameX="-153" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix up0000" x="0" y="0" width="457" height="642" frameX="-238" frameY="-162" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix up0001" x="457" y="0" width="502" height="610" frameX="-209" frameY="-194" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix right0000" x="559" y="642" width="532" height="598" frameX="-307" frameY="-195" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix right0001" x="626" y="1245" width="547" height="576" frameX="-258" frameY="-217" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

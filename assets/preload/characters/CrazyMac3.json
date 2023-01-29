@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 30,
+			"name": "cm idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				40
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 12,
+			"name": "cm up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				42,
+				1
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "cm left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-37,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "cm right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-44
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "cm down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CrazyMacPhase3",
+	"position": [
+		120,
+		100
+	],
+	"healthicon": "crazymac",
+	"flip_x": false,
+	"healthbar_colors": [
+		198,
+		198,
+		198
+	],
+	"camera_position": [
+		230,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

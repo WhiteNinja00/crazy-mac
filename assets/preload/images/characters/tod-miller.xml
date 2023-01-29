@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tod-miller.png"><SubTexture name="cm down0000" x="532" y="924" width="295" height="259" frameX="-195" frameY="-363" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm down0001" x="271" y="924" width="261" height="274" frameX="-216" frameY="-348" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm idle0000" x="0" y="924" width="271" height="276" frameX="-209" frameY="-346" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm idle0001" x="936" y="292" width="266" height="280" frameX="-210" frameY="-342" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm idle0002" x="466" y="628" width="245" height="292" frameX="-221" frameY="-330" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm idle0003" x="0" y="330" width="230" height="298" frameX="-229" frameY="-323" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm idle0004" x="230" y="330" width="232" height="297" frameX="-228" frameY="-324" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm left0000" x="936" y="572" width="265" height="279" frameX="-172" frameY="-343" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm left0001" x="697" y="0" width="239" height="297" frameX="-204" frameY="-324" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm miss0000" x="233" y="628" width="233" height="295" frameX="-228" frameY="-326" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm miss0001" x="697" y="297" width="234" height="297" frameX="-225" frameY="-324" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm miss0002" x="0" y="628" width="233" height="296" frameX="-230" frameY="-325" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm miss0003" x="462" y="330" width="232" height="297" frameX="-228" frameY="-324" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm right0000" x="936" y="0" width="284" height="292" frameX="-265" frameY="-339" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm right0001" x="217" y="0" width="248" height="314" frameX="-256" frameY="-316" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm up0000" x="0" y="0" width="217" height="330" frameX="-257" frameY="-291" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm up0001" x="465" y="0" width="232" height="308" frameX="-242" frameY="-313" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cm-miller.png"><SubTexture name="cm down0000" x="464" y="662" width="260" height="290" frameX="-319" frameY="-526" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm down0001" x="232" y="662" width="232" height="301" frameX="-322" frameY="-515" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm idle0000" x="703" y="0" width="232" height="315" frameX="-314" frameY="-500" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm idle0001" x="703" y="315" width="232" height="315" frameX="-314" frameY="-500" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm idle0002" x="935" y="0" width="232" height="315" frameX="-314" frameY="-500" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm idle0003" x="935" y="315" width="232" height="315" frameX="-314" frameY="-500" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm left0000" x="460" y="0" width="243" height="317" frameX="-268" frameY="-497" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm left0001" x="0" y="346" width="232" height="316" frameX="-292" frameY="-499" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm right0000" x="232" y="346" width="250" height="316" frameX="-353" frameY="-499" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm right0001" x="0" y="662" width="232" height="314" frameX="-337" frameY="-502" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm up0000" x="0" y="0" width="228" height="346" frameX="-318" frameY="-469" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm up0001" x="228" y="0" width="232" height="327" frameX="-311" frameY="-488" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

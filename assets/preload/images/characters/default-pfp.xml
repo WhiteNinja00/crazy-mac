@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="default-pfp.png"><SubTexture name="default idle0000" x="381" y="0" width="151" height="150" frameX="-380" frameY="-393" frameWidth="900" frameHeight="900" />
+<SubTexture name="default down0000" x="0" y="0" width="209" height="160" frameX="-331" frameY="-390" frameWidth="900" frameHeight="900" />
+<SubTexture name="default left0000" x="0" y="160" width="158" height="152" frameX="-378" frameY="-392" frameWidth="900" frameHeight="900" />
+<SubTexture name="default right0000" x="209" y="0" width="172" height="156" frameX="-367" frameY="-390" frameWidth="900" frameHeight="900" />
+<SubTexture name="default up0000" x="158" y="160" width="179" height="152" frameX="-365" frameY="-392" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

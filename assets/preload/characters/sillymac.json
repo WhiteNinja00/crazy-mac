@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Awesome idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				484,
+				141
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				29
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				14
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				-107
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-389
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bruh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-126,
+				17
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "the miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-194,
+				-118
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "omg",
+			"indices": []
+		},
+		{
+			"offsets": [
+				157,
+				99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "haha"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sillymac",
+	"position": [
+		290,
+		420
+	],
+	"healthicon": "crazymacdmg1",
+	"flip_x": true,
+	"healthbar_colors": [
+		198,
+		198,
+		198
+	],
+	"camera_position": [
+		330,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}

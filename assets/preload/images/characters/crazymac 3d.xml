@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crazymac 3d.png"><SubTexture name="cm idle0000" x="2293" y="895" width="764" height="891" frameX="-115" frameY="-109" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cm down0000" x="2293" y="0" width="807" height="895" frameX="-102" frameY="-105" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cm down0001" x="0" y="1969" width="766" height="839" frameX="-122" frameY="-161" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cm left0000" x="0" y="0" width="764" height="987" frameX="-48" frameY="-13" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cm left0001" x="764" y="0" width="764" height="987" frameX="-68" frameY="-13" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cm right0000" x="1528" y="0" width="765" height="982" frameX="-173" frameY="-18" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cm right0001" x="0" y="987" width="764" height="982" frameX="-148" frameY="-18" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cm up0000" x="764" y="987" width="741" height="920" frameX="-135" frameY="-80" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cm up0001" x="1505" y="987" width="764" height="911" frameX="-124" frameY="-89" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

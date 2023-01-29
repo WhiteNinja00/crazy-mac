@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "maddix idle"
+		},
+		{
+			"offsets": [
+				-7,
+				1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "maddix left"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "maddix down"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "maddix up"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "maddix right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/maddix-pasta",
+	"position": [
+		-10,
+		-100
+	],
+	"healthicon": "pastaduo",
+	"flip_x": false,
+	"healthbar_colors": [
+		129,
+		132,
+		143
+	],
+	"camera_position": [
+		-280,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 0.699999999999999
+}

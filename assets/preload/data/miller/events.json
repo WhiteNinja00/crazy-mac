@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				2025,
+				[
+					[
+						"Hide Hud",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				35550,
+				[
+					[
+						"Hide Hud",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				133200,
+				[
+					[
+						"Flash Camera",
+						"0.7",
+						""
+					],
+					[
+						"Change Character",
+						"Dad",
+						"crazymac-miller"
+					]
+				]
+			],
+			[
+				184800,
+				[
+					[
+						"Flash Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				283200,
+				[
+					[
+						"Flash Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				302400,
+				[
+					[
+						"Flash Camera",
+						"0.7",
+						""
+					],
+					[
+						"Change Character",
+						"Dad",
+						"mackling"
+					]
+				]
+			],
+			[
+				326325,
+				[
+					[
+						"Hide Hud",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

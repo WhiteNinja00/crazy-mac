@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"Jod",
+			"sonic",
+			[
+				23,
+				41,
+				230
+			]
+		],
+		[
+			"Expurgation",
+			"sonic",
+			[
+				23,
+				41,
+				230
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "fdnjfednjterdnjtdrnjhtrhnj",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "dont look",
+	"weekName": "Week Egg",
+	"freeplayColor": [
+		23,
+		41,
+		230
+	],
+	"hideStoryMode": true,
+	"weekBefore": "week8",
+	"startUnlocked": true
+}

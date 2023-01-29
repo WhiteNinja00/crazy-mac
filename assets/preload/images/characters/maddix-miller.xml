@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="maddix-miller.png"><SubTexture name="maddix down0000" x="315" y="1716" width="356" height="476" frameX="-195" frameY="-346" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix down0001" x="2000" y="0" width="313" height="498" frameX="-222" frameY="-324" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix lol u suck d0000" x="0" y="1716" width="315" height="496" frameX="-220" frameY="-326" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix lol u suck d0001" x="2000" y="498" width="313" height="498" frameX="-222" frameY="-324" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix idle0000" x="1625" y="1174" width="301" height="534" frameX="-259" frameY="-303" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix idle0001" x="1332" y="1174" width="293" height="537" frameX="-263" frameY="-300" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix idle0002" x="1721" y="0" width="279" height="550" frameX="-270" frameY="-286" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix idle0003" x="1096" y="615" width="271" height="554" frameX="-274" frameY="-282" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix idle0004" x="1448" y="0" width="273" height="553" frameX="-273" frameY="-283" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix left0000" x="0" y="1174" width="351" height="542" frameX="-189" frameY="-295" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix left0001" x="351" y="1174" width="326" height="541" frameX="-215" frameY="-296" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix wow u are trash l0000" x="677" y="1174" width="329" height="541" frameX="-212" frameY="-296" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix wow u are trash l0001" x="1006" y="1174" width="326" height="541" frameX="-215" frameY="-296" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix right0000" x="1062" y="0" width="386" height="559" frameX="-343" frameY="-277" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix right0001" x="0" y="615" width="365" height="559" frameX="-323" frameY="-277" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix onion ring r0000" x="365" y="615" width="366" height="559" frameX="-325" frameY="-277" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix onion ring r0001" x="731" y="615" width="365" height="559" frameX="-323" frameY="-277" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix up0000" x="0" y="0" width="256" height="615" frameX="-328" frameY="-220" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix up0001" x="526" y="0" width="268" height="586" frameX="-313" frameY="-250" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix silly goose u0000" x="256" y="0" width="270" height="592" frameX="-315" frameY="-244" frameWidth="900" frameHeight="900" />
+<SubTexture name="maddix silly goose u0001" x="794" y="0" width="268" height="586" frameX="-313" frameY="-250" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

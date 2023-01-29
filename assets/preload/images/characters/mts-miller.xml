@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mts-miller.png"><SubTexture name="mts down0000" x="0" y="1134" width="368" height="168" frameX="-260" frameY="-625" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts down0001" x="1140" y="0" width="338" height="178" frameX="-278" frameY="-615" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts idle0000" x="313" y="922" width="311" height="210" frameX="-303" frameY="-601" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts idle0001" x="624" y="922" width="329" height="203" frameX="-297" frameY="-608" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts idle0002" x="320" y="704" width="301" height="217" frameX="-314" frameY="-594" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts idle0003" x="0" y="253" width="283" height="226" frameX="-319" frameY="-584" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts idle0004" x="557" y="0" width="286" height="225" frameX="-319" frameY="-585" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts left0000" x="0" y="704" width="320" height="218" frameX="-243" frameY="-592" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts left0001" x="621" y="704" width="302" height="214" frameX="-275" frameY="-597" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts miss0000" x="843" y="0" width="297" height="222" frameX="-311" frameY="-589" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts miss0001" x="0" y="479" width="293" height="225" frameX="-316" frameY="-586" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts miss0002" x="293" y="479" width="291" height="225" frameX="-315" frameY="-585" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts miss0003" x="557" y="225" width="286" height="225" frameX="-319" frameY="-585" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts right0000" x="0" y="922" width="313" height="212" frameX="-364" frameY="-598" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts right0001" x="843" y="222" width="285" height="212" frameX="-354" frameY="-598" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts up0000" x="0" y="0" width="272" height="253" frameX="-329" frameY="-547" frameWidth="900" frameHeight="900" />
+<SubTexture name="mts up0001" x="272" y="0" width="285" height="231" frameX="-319" frameY="-569" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

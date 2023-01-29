@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CrazyMacPhase2.png"><SubTexture name="cm idle 10000" x="0" y="546" width="496" height="527" frameX="-197" frameY="-283" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm idle 10001" x="496" y="546" width="496" height="527" frameX="-197" frameY="-283" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm idle 10002" x="992" y="546" width="496" height="527" frameX="-197" frameY="-283" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm idle 10003" x="1490" y="0" width="496" height="527" frameX="-197" frameY="-283" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm idle 10004" x="1490" y="527" width="496" height="527" frameX="-197" frameY="-283" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm left0000" x="992" y="0" width="498" height="529" frameX="-179" frameY="-281" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm left0001" x="0" y="1073" width="497" height="527" frameX="-185" frameY="-283" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm right0000" x="497" y="1073" width="495" height="527" frameX="-211" frameY="-283" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm right0001" x="992" y="1073" width="496" height="527" frameX="-206" frameY="-283" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm up0000" x="0" y="0" width="496" height="546" frameX="-192" frameY="-264" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm up0001" x="496" y="0" width="496" height="540" frameX="-194" frameY="-270" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm down0000" x="1986" y="0" width="495" height="515" frameX="-207" frameY="-295" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm down0001" x="1488" y="1073" width="495" height="521" frameX="-202" frameY="-289" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tod-pasta.png"><SubTexture name="cm down0000" x="690" y="948" width="353" height="360" frameX="-246" frameY="-284" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm down0001" x="1286" y="406" width="301" height="380" frameX="-269" frameY="-271" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm left0000" x="550" y="0" width="330" height="454" frameX="-215" frameY="-185" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm left0001" x="0" y="504" width="307" height="444" frameX="-241" frameY="-193" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm right0000" x="880" y="0" width="406" height="447" frameX="-263" frameY="-193" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm right0001" x="307" y="504" width="353" height="443" frameX="-267" frameY="-197" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm up0000" x="0" y="0" width="264" height="504" frameX="-296" frameY="-168" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm up0001" x="264" y="0" width="286" height="466" frameX="-288" frameY="-193" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm idle0000" x="337" y="948" width="353" height="388" frameX="-263" frameY="-228" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm idle0001" x="0" y="948" width="337" height="400" frameX="-270" frameY="-220" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm idle0002" x="1286" y="0" width="327" height="406" frameX="-274" frameY="-217" frameWidth="900" frameHeight="900" />
+<SubTexture name="cm idle0003" x="660" y="504" width="317" height="410" frameX="-280" frameY="-214" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 12,
+			"name": "cm up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				1
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "cm left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "cm right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "cm down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "cm idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OutOfHisMind Mac",
+	"position": [
+		70,
+		220
+	],
+	"healthicon": "crazymac",
+	"flip_x": true,
+	"healthbar_colors": [
+		198,
+		198,
+		198
+	],
+	"camera_position": [
+		0,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

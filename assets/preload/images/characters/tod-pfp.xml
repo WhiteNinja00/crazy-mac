@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tod-pfp.png"><SubTexture name="tod idle0000" x="0" y="0" width="151" height="149" frameX="-358" frameY="-417" frameWidth="900" frameHeight="900" />
+<SubTexture name="tod down0000" x="0" y="0" width="151" height="149" frameX="-358" frameY="-436" frameWidth="900" frameHeight="900" />
+<SubTexture name="tod down0001" x="0" y="0" width="151" height="149" frameX="-358" frameY="-433" frameWidth="900" frameHeight="900" />
+<SubTexture name="tod right0000" x="0" y="0" width="151" height="149" frameX="-376" frameY="-417" frameWidth="900" frameHeight="900" />
+<SubTexture name="tod right0001" x="0" y="0" width="151" height="149" frameX="-373" frameY="-417" frameWidth="900" frameHeight="900" />
+<SubTexture name="tod up0000" x="0" y="0" width="151" height="149" frameX="-358" frameY="-399" frameWidth="900" frameHeight="900" />
+<SubTexture name="tod up0001" x="0" y="0" width="151" height="149" frameX="-358" frameY="-402" frameWidth="900" frameHeight="900" />
+<SubTexture name="tod left0000" x="0" y="0" width="151" height="149" frameX="-337" frameY="-417" frameWidth="900" frameHeight="900" />
+<SubTexture name="tod left0001" x="0" y="0" width="151" height="149" frameX="-339" frameY="-417" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

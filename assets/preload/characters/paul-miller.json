@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				-126
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "Oooooh L d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				57
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "omg no way u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-33
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "bruh u trash r",
+			"indices": []
+		},
+		{
+			"offsets": [
+				232,
+				-6
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "u silly goose l"
+		},
+		{
+			"offsets": [
+				-5,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				223,
+				-3
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				30,
+				6
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				20,
+				50
+			],
+			"loop": false,
+			"fps": 34,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-3,
+				-17
+			],
+			"loop": false,
+			"fps": 34,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MIller_Paul",
+	"position": [
+		210,
+		290
+	],
+	"healthicon": "duo",
+	"flip_x": true,
+	"healthbar_colors": [
+		195,
+		120,
+		0
+	],
+	"camera_position": [
+		0,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.799999999999999
+}

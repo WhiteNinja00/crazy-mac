@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"Head-to-Head",
+			"pfp",
+			[
+				210,
+				210,
+				240
+			]
+		],
+		[
+			"Interrelation",
+			"pfp",
+			[
+				210,
+				210,
+				240
+			]
+		],
+		[
+			"Parsed",
+			"crazymac",
+			[
+				230,
+				230,
+				230
+			]
+		],
+		[
+			"Epik",
+			"questin",
+			[
+				230,
+				230,
+				230
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "fdnjfednjterdnjtdrnjhtrhnj",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "dont look",
+	"weekName": "Week Egg",
+	"freeplayColor": [
+		230,
+		230,
+		230
+	],
+	"hideStoryMode": true,
+	"weekBefore": "week8",
+	"startUnlocked": true
+}

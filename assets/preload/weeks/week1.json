@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Infiltrate",
+			"crazymac",
+			[
+				230,
+				230,
+				230
+			]
+		],
+		[
+			"Authentication",
+			"crazymac",
+			[
+				230,
+				230,
+				230
+			]
+		],
+		[
+			"Formidable",
+			"crazymac",
+			[
+				230,
+				230,
+				230
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "crazy",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Every FNF Mod Ever Part 2",
+	"weekName": "Week 8",
+	"freeplayColor": [
+		230,
+		230,
+		230
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week7",
+	"startUnlocked": true
+}

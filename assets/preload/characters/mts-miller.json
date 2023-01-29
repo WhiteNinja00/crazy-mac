@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "mts idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "mts left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-21
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "mts down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-3
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "mts up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "mts right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mts-miller",
+	"position": [
+		-10,
+		20
+	],
+	"healthicon": "duo",
+	"flip_x": true,
+	"healthbar_colors": [
+		195,
+		120,
+		0
+	],
+	"camera_position": [
+		60,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

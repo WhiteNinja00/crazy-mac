@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				-30
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 12,
+			"name": "epik up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				-9
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "epik left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				11
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "epik right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-46
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "epik down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				-1
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "epik idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/epik-toad",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "epik",
+	"flip_x": false,
+	"healthbar_colors": [
+		63,
+		71,
+		204
+	],
+	"camera_position": [
+		70,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

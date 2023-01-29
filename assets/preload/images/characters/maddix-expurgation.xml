@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="maddix-expurgation.png"><SubTexture name="maddix idle0000" x="1555" y="1241" width="411" height="576" frameX="-89" frameY="-119" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix idle0001" x="1149" y="1241" width="406" height="577" frameX="-89" frameY="-118" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix idle0002" x="1754" y="0" width="379" height="596" frameX="-106" frameY="-98" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix idle0003" x="0" y="636" width="367" height="605" frameX="-114" frameY="-89" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix idle0004" x="991" y="0" width="367" height="606" frameX="-114" frameY="-88" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix left0000" x="1358" y="0" width="396" height="598" frameX="-81" frameY="-96" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix left0001" x="0" y="1241" width="389" height="596" frameX="-89" frameY="-98" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix left0002" x="389" y="1241" width="386" height="596" frameX="-92" frameY="-98" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix right0000" x="1358" y="598" width="338" height="598" frameX="-191" frameY="-96" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix right0001" x="367" y="636" width="336" height="602" frameX="-182" frameY="-92" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix right0002" x="703" y="636" width="336" height="602" frameX="-180" frameY="-92" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix up0000" x="0" y="0" width="319" height="636" frameX="-161" frameY="-58" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix up0001" x="319" y="0" width="335" height="620" frameX="-147" frameY="-74" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix up0002" x="654" y="0" width="337" height="615" frameX="-145" frameY="-79" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix down0000" x="2133" y="0" width="399" height="572" frameX="-93" frameY="-123" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix down0001" x="775" y="1241" width="374" height="582" frameX="-108" frameY="-113" frameWidth="700" frameHeight="700" />
+<SubTexture name="maddix down0002" x="1754" y="596" width="371" height="587" frameX="-111" frameY="-108" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

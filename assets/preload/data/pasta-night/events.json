@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "bar",
+		"player1": "grey",
+		"player2": "glitchy",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Show Strums",
+						"true",
+						"middle"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gold",
+		"bpm": 117,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Pasta Night"
+	}
+}

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OutOfHisMind Mac.png"><SubTexture name="cm down0000" x="0" y="0" width="700" height="700" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm down0001" x="700" y="0" width="700" height="700" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm idle0000" x="0" y="700" width="700" height="700" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm idle0001" x="700" y="700" width="700" height="700" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm left0000" x="1400" y="0" width="700" height="700" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm left0001" x="1400" y="700" width="700" height="700" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm right0000" x="0" y="1400" width="700" height="700" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm right0001" x="700" y="1400" width="700" height="700" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm up0000" x="1400" y="1400" width="700" height="700" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="cm up0001" x="2100" y="0" width="700" height="700" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

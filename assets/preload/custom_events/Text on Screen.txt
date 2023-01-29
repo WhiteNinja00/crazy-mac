@@ -1,0 +1,2 @@
+value1 = text
+value2 = duration (in seconds)

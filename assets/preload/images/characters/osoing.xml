@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="osoing.png"><SubTexture name="osoing idle0000" x="0" y="0" width="400" height="400" frameX="-256" frameY="-332" frameWidth="900" frameHeight="900" />
+<SubTexture name="osoing up0000" x="400" y="0" width="400" height="400" frameX="-256" frameY="-332" frameWidth="900" frameHeight="900" />
+<SubTexture name="osoing right0000" x="0" y="400" width="400" height="400" frameX="-256" frameY="-332" frameWidth="900" frameHeight="900" />
+<SubTexture name="osoing down0000" x="400" y="400" width="400" height="400" frameX="-256" frameY="-332" frameWidth="900" frameHeight="900" />
+<SubTexture name="osoing left0000" x="800" y="0" width="400" height="400" frameX="-256" frameY="-332" frameWidth="900" frameHeight="900" />
+</TextureAtlas>
