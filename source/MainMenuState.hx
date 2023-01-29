@@ -293,7 +293,7 @@ class MainMenuState extends MusicBeatState {
 						switch(creditthing[spr.ID]) {
 							case 'maddix':
 								CoolUtil.browserLoad('https://twitter.com/ActuallyMaddix');
-							case 'belg':
+							case 'bleg':
 								CoolUtil.browserLoad('https://twitter.com/BlegsBag');
 							case 'buby':
 								CoolUtil.browserLoad('https://twitter.com/bubydareal');
